@@ -1,0 +1,432 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .menu8t-bar {
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+    margin-left:-6px;
+    margin-right: 26px;
+  }
+  
+  .logo8t img {
+    max-width: 100px;
+    height: auto;
+  }
+  
+  .company8t-name {
+    font-size: 24px;
+    margin: 0 20px;
+    font-family:cursive;
+    font-weight: bolder;
+  }
+  
+  .menu8t-options ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .menu8t-options li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .menu8t-options li a {
+    text-decoration: none;
+    color: #333;
+    padding: 5px;
+    font-weight: 600;
+  }
+  
+  .menu8t-options li a:hover {
+    background-color: #333;
+    color: #fff;
+  }
+  .btn-primary{
+    background-color: rgb(210, 226, 242);
+    color: #00798a;
+    border:solid 2px #00798a
+
+  }
+  .container8t {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    padding-top:0;
+    margin-top: 35px;
+  }
+  
+  .box8t {
+    display: flex;
+    max-width: 1000px;
+    background-color: #fff;
+    border: none;
+
+  }
+  
+  .box8t-content {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .box8t-heading {
+   
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  .box8t-text {
+    font-size: 17px;
+
+  }
+  
+  .box8t-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .box8t-image img {
+    width: 600px;
+    height: 330px;
+  }
+  .story{
+    color: rgb(243, 21, 21);
+    font-size: 12px;
+    font-weight: 600;
+ }
+ .box8t-heading{
+    font-weight: 700;
+    font-size: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ .container28t {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-left: 500px;
+    margin-top: 69px;
+  }
+  
+  .logo28t img {
+    max-width: 55px;
+    height: auto;
+    border-radius: 50%;
+  }
+  
+  .company-info28t {
+    margin-left: 20px;
+  }
+  
+  .company-name28t {
+    font-size: 16px;
+    margin: 0;
+    color: #085f99;
+  }
+  .container38t {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    margin-top: 62px;
+  }
+  
+  .box28t {
+    display: flex;
+    width: 900px;
+    height: 200px;
+   
+  }
+  
+  .left {
+    flex: 1;
+    background-color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+   
+  }
+  
+  .right {
+    flex: 5;
+    background-color: #fff;
+  }
+  
+  .social-icons18t {
+    margin-top: 20px;
+ 
+  }
+  
+  .social-icons18t a {
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 24px;
+   
+  }
+  .svg-inline--fa {
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    margin-right: 100px;
+    width:20px;
+    height:40px;
+}
+  .left .heading{
+    font-size: 20px;
+    color: #444343;
+  }
+  .right p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+  }
+  .container48t {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 376vh;
+   
+  }
+  
+  .box38t {
+    width: 900px;
+    height: 2800px;
+    padding-left: 150px;
+    margin-top: 533px;
+  }
+  
+  .box38t-content {
+    padding: 20px;
+  }
+  
+  .box38t-heading {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    padding-bottom: 10px;
+  }
+  
+  .box38t-content p {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    text-align: justify;
+    padding-bottom: 20px;
+    
+  }
+  .box38t-content li{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+  }
+  .box38t-content img{
+    width:500px;
+    height:300px;
+    padding-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .sub8t{
+    color: #726f6f;
+    font-size: 14px;
+  }
+  .container58t {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    height: 50vh;
+  }
+  
+  .box48t {
+    width: 250px;
+    height: 300px;
+    background-color: #fff;
+    border: none;
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .box48t-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .box48t-content {
+    padding: 10px;
+  }
+  
+  .box48t-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+  }
+  
+  .box48t-content p {
+    font-size: 16px;
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  .rep{
+    font-weight: 700;
+    font-size: 34px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 220px;
+    padding-top:20px ;
+    padding-bottom: 30px;
+    margin-top: 550px;
+  }
+  .container68t{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width:100%;
+    
+  }
+  
+  .box58t {
+    display: flex;
+    width: 100%;
+    height: 200px;
+    padding-left: 300px;
+    background-color: rgb(240, 233, 226);
+    padding-right: 100px;
+    
+  }
+  
+  .part {
+    flex-grow: 1;
+    padding: 20px;
+    
+  }
+  
+  .part-1 {
+    flex-basis: 40%;
+  }
+  
+  .part-2 {
+      flex-basis: 15%;
+  }
+  
+  .part-3 {
+      flex-basis: 17%;
+  }
+  
+  .part-4 {
+       flex-basis: 40%;
+  }
+  
+  .part-heading {
+    font-size: 20px;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 20px;
+  }
+  
+  .links18t {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    gap:20px;
+    padding-top: 30px;
+  }
+  
+  .links18t a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #167494;
+  }
+  
+  ul,
+  ol {
+    margin: 0;
+    padding-left: 20px;
+    text-decoration: none;
+    list-style: none;
+    gap:20px;
+    padding-top: 20px;
+   font-size: 17px;
+  }
+  .part li{
+    padding-bottom: 20px;
+  }
+  
+ 
+    .part .fab{
+    height: 40px;
+  }
+  
+  .social-icons28t {
+  display: flex;
+  padding-top: 30px;
+}
+
+.icon-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border: 2px solid #181717;
+  margin-right: 10px;
+  border-radius: 15%;
+  margin-right: 30px;
+}
+
+.icon-box i {
+  font-size: 24px;
+  color: #333;
+}
+.part .svg-inline--fa {
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+    margin: 100px;
+}
+.container78t {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width:100%;
+    
+  }
+  
+  .box68t {
+    display: flex;
+    width: 100%;
+    height: 70px;
+    padding-left: 200px;
+    background-color: rgb(192, 186, 179);
+    padding-right: 200px;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+  .box68t li{
+    text-decoration: none;
+    float: left;
+    margin: 0 20px;
+    list-style: none;
+  }
+  
